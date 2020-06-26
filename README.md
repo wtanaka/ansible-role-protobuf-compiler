@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/wtanaka/ansible-role-protobuf-compiler.svg?branch=master)](https://travis-ci.org/wtanaka/ansible-role-protobuf-compiler)
+[![Build Status](https://travis-ci.com/wtanaka/ansible-role-protobuf-compiler.svg?branch=master)](https://travis-ci.com/wtanaka/ansible-role-protobuf-compiler)
 [![CircleCI](https://circleci.com/gh/wtanaka/ansible-role-protobuf-compiler.svg?style=svg)](https://circleci.com/gh/wtanaka/ansible-role-protobuf-compiler)
 
 wtanaka.protobuf-compiler
